@@ -1,0 +1,47 @@
+title: Iker Uriarte
+description: Academic & Public Policy Professional
+url: "https://iker-uriarte.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
+theme: minima
+
+# Site settings
+author:
+  name: Iker Uriarte
+  email: your.email@example.com # Replace with your email
+
+# Collections
+collections:
+  research:
+    output: true
+  projects:
+    output: true
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
