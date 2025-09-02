@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="research-paper">
+    <header>
+        <h1>{{ page.title }}</h1>
+        {% if page.authors %}
+        <p class="authors">{{ page.authors }}</p>
+        {% endif %}
+        {% if page.journal %}
+        <p class="journal">{{ page.journal }}</p>
+        {% endif %}
+        {% if page.year %}
+        <p class="year">{{ page.year }}</p>
+        {% endif %}
+    </header>
+
+    <div class="abstract">
+        {% if page.abstract %}
+        <h2>Abstract</h2>
+        <p>{{ page.abstract }}</p>
+        {% endif %}
+    </div>
+
+    <div class="content">
+        {{ content }}
+    </div>
+
+    {% if page.pdf_link %}
+    <p><a href="{{ page.pdf_link }}" class="pdf-link">Download PDF</a></p>
+    {% endif %}
+</article>

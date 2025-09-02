@@ -5,19 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <!-- Try different styles by changing the filename -->
+    <!-- Options: main.css, style-modern.css, style-traditional.css, style-minimal.css -->
+    <link rel="stylesheet" href="{{ '/assets/css/style-modern.css' | relative_url }}">
     {% seo %}
 </head>
 
 <body>
     <header>
-        <nav>
-            <a href="{{ '/' | relative_url }}">Home</a>
-            <a href="{{ '/research' | relative_url }}">Research</a>
-            <a href="{{ '/projects' | relative_url }}">Projects</a>
-            <a href="{{ '/cv' | relative_url }}">CV</a>
-            <a href="{{ '/contact' | relative_url }}">Contact</a>
-        </nav>
+        {% include navigation.html %}
     </header>
 
     <main>

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="hero-section">
+    <div class="hero-background"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+        <h1 class="hero-title">{{ site.author.name | default: "Your Name" }}</h1>
+        <p class="hero-subtitle">{{ site.description | default: "Academic & Public Policy Professional" }}</p>
+        <a href="{{ '/research/' | relative_url }}" class="hero-cta">Explore My Research</a>
+    </div>
+</div>
+
+<main class="hero-main">
+    <div style="max-width: 1000px; margin: 0 auto; padding: 0 2rem;">
+        {{ content }}
+    </div>
+</main>

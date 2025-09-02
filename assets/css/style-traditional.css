@@ -1,0 +1,115 @@
+/* Traditional Academic Style */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:wght@300;400;500;600&display=swap');
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    color: #2c3e50;
+    background: #fefefe;
+}
+
+header {
+    background: #34495e;
+    color: white;
+    padding: 1rem 0;
+}
+
+.main-nav {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 2rem;
+}
+
+.main-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    border-radius: 3px;
+    transition: background 0.3s ease;
+}
+
+.main-nav a:hover,
+.main-nav a.active {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Libre Baskerville', serif;
+    color: #2c3e50;
+}
+
+h1 {
+    font-size: 2.2rem;
+    border-bottom: 2px solid #bdc3c7;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-top: 2.5rem;
+    color: #34495e;
+}
+
+.research-item,
+.project-item {
+    border-left: 4px solid #3498db;
+    padding-left: 1.5rem;
+    margin-bottom: 2.5rem;
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 0 8px 8px 0;
+}
+
+.research-item h3,
+.project-item h3 {
+    color: #2980b9;
+    margin-top: 0;
+}
+
+.authors {
+    font-style: italic;
+    color: #7f8c8d;
+    margin: 0.5rem 0;
+}
+
+.publication-info {
+    color: #27ae60;
+    font-weight: 600;
+}
+
+.pdf-link {
+    display: inline-block;
+    background: #e74c3c;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+
+.pdf-link:hover {
+    background: #c0392b;
+}
+
+footer {
+    background: #34495e;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 3rem;
+}
