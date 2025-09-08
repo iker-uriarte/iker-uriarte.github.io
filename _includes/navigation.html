@@ -1,7 +1,7 @@
 <nav class="main-nav">
-    <a href="{{ site.baseurl }}/" {% if page.url=="/" %}class="active" {% endif %}>Home</a>
-    <a href="{{ site.baseurl }}/research/" {% if page.url contains '/research' %}class="active" {% endif %}>Research</a>
-    <a href="{{ site.baseurl }}/projects/" {% if page.url contains '/projects' %}class="active" {% endif %}>Projects</a>
-    <a href="{{ site.baseurl }}/cv/" {% if page.url=='/cv/' %}class="active" {% endif %}>CV</a>
-    <a href="{{ site.baseurl }}/contact/" {% if page.url=='/contact/' %}class="active" {% endif %}>Contact</a>
+    <a href="{{ '/' | relative_url }}" {% if page.url=="/" %}class="active" {% endif %}>Home</a>
+    <a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research' %}class="active" {% endif %}>Research</a>
+    <a href="{{ '/projects/' | relative_url }}" {% if page.url contains '/projects' %}class="active" {% endif %}>Projects</a>
+    <a href="{{ '/cv/' | relative_url }}" {% if page.url=='/cv/' %}class="active" {% endif %}>CV</a>
+    <a href="{{ '/contact/' | relative_url }}" {% if page.url=='/contact/' %}class="active" {% endif %}>Contact</a>
 </nav>
