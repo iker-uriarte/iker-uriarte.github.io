@@ -9,22 +9,23 @@ I'm always interested in discussing research, policy work, and potential collabo
 <div class="contact-info">
     <div class="contact-item">
         <h3>Email</h3>
-        <p><a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p><a href="mailto:your.email@example.com">iuriarte@ibei.org</a></p>
     </div>
     
     <div class="contact-item">
         <h3>Office</h3>
-        <p>Your Office Location<br>
-        University/Organization Name<br>
-        City, State ZIP</p>
+        <p>24.125<br>
+        Institut Barcelona d'Estudis Internacionals<br>
+        Barcelona, 08005</p>
     </div>
     
     <div class="contact-item">
         <h3>Social</h3>
         <p>
-        <a href="https://twitter.com/yourusername">Twitter</a><br>
-        <a href="https://linkedin.com/in/yourprofile">LinkedIn</a><br>
-        <a href="https://scholar.google.com/citations?user=yourprofile">Google Scholar</a>
+        <a href="https://bsky.app/profile/iker-uriarte.bsky.social">🦋 Bluesky</a><br>
+        <a href="https://www.linkedin.com/in/iker-uriarte-1192652a4/">💼 LinkedIn</a><br>
+        <a href="https://scholar.google.com/citations?user=Uc8z0PwAAAAJ&hl=es&oi=sra">🎓 Google Scholar</a><br>
+        <a href="https://github.com/iker-uriarte">💻 GitHub</a>
         </p>
     </div>
 </div>

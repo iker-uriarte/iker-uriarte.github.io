@@ -4,28 +4,43 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+*Full CV available upon request*
+
 ## Education
 
 <div class="cv-entry">
-    <div class="cv-title">Ph.D. in Public Policy</div>
-    <div class="cv-organization">University Name</div>
-    <div class="cv-date">Expected 2025</div>
-    <p>Dissertation: "Title of Your Dissertation"</p>
+    <div class="cv-title">Ph.D. in Political and Social Science</div>
+    <div class="cv-organization">Pompeu Fabra University</div>
+    <div class="cv-date">Expected 2026</div>
+    <p>Dissertation: "Three Essays on Democratic Policy Implementation"</p>
 </div>
 
 <div class="cv-entry">
-    <div class="cv-title">M.A. in Public Administration</div>
-    <div class="cv-organization">University Name</div>
-    <div class="cv-date">2020</div>
+    <div class="cv-title">M.Sc. in Political and Electoral Analysis</div>
+    <div class="cv-organization">University Carlos III - Juan March Institute</div>
+    <div class="cv-date">2021</div>
+</div>
+
+<div class="cv-entry">
+    <div class="cv-title">B.A. in Sociology</div>
+    <div class="cv-organization">University of Salamanca</div>
+    <div class="cv-date">2019</div>
 </div>
 
 ## Professional Experience
 
 <div class="cv-entry">
-    <div class="cv-title">Policy Analyst</div>
-    <div class="cv-organization">Organization Name</div>
-    <div class="cv-date">2021 - Present</div>
-    <p>Brief description of your role and key accomplishments.</p>
+    <div class="cv-title">Editorial Assistant</div>
+    <div class="cv-organization">Journal of Public Policy</div>
+    <div class="cv-date">2023 - Present</div>
+    <p>Supported public communications by managing social media channels, crafting engaging content to highlight key publications, and coordinating outreach strategies to increase visibility and readership</p>
+</div>
+
+<div class="cv-entry">
+    <div class="cv-title">Pre Doctoral Fellow, REPGOV project (ERC funded)</div>
+    <div class="cv-organization">Institut Barcelona d'Estudis Internacionals</div>
+    <div class="cv-date">2022 - Present</div>
+    <p>Contributed to research on caretaker governments and legislative politics through large-scale data collection, systematic literature reviews, and quantitative analysis of lawmaking processes in Spain and Italy.</p>
 </div>
 
 ## Publications
