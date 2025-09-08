@@ -1,7 +1,7 @@
 title: Iker Uriarte
 description: Academic & Public Policy Professional
 url: "https://iker-uriarte.github.io"
-baseurl: ""
+baseurl: "/iker-uriarte.github.io"
 
 # Build settings
 markdown: kramdown
