@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+permalink: /contact/
 ---
 
 I'm always interested in discussing research, policy work, and potential collaborations.
