@@ -5,9 +5,9 @@ title: Home
 
 ## About Me
 
-I am an academic and public policy professional focused on urban policy and governance. My work bridges the gap between rigorous academic research and practical policy implementation in urban settings.
+I am a PhD candidate in Political and Social Sciences at Universitat Pompeu Fabra and a pre-doctoral fellow at the Institut Barcelona d’Estudis Internacionals (IBEI). My research examines how democratic and bureaucratic accountability collide in practice, with a focus on participatory processes and governance in cities such as New York City and Barcelona. Along the way, I use quantitative methods to make sense of how institutions try (and often fail) to deliver on their promises.
 
-My research examines how cities can develop more effective policies through evidence-based approaches, with particular attention to the intersection of data analytics and public administration.
+In addition to my academic work, I am passionate about fostering collaboration between scholars, policymakers, and local communities. I believe that meaningful change emerges when research is accessible and actionable, and I strive to bridge the gap between theory and practice through public engagement and interdisciplinary partnerships. My experiences in both New York and Barcelona have shaped my commitment to inclusive governance and evidence-based policy, and I am dedicated to transforming the way we understand democratic practices and reimagining our institutions for a more inclusive and equal society. Outside of academia, I’m a fairly competent bass player and a film enthusiast—hit me up if that’s your jam too, I’m always happy to talk about music or movies.
 
 ## Research Focus
 
